@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
-    <img alt="X-2.0" height="300" src="https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg">
+    <img alt="X-2.0" height="300" src="https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg">
     <h1 align="center">MAKINO-MD-V2</h1>
     <h4 align="center">Major Update available.</h4>
     <h3 align="center">Bug Menu</h3>
