@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/Author_Of-ALPHA-MD-black"></a>
-
+<h1 align="center">ALPHA-MD</center></h1>
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
     <img alt="X-2.0" height="300" src="https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg">
@@ -12,13 +10,11 @@
        <h3 align="center">Added Different menu(Core menu,all menu ...)</h3>
   </a>
 </p>
-<p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge-black?style=for-the-badge&logo=twitter"></a>
-<p/>
+
 <p align="center">
 <a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?label=Followers&style=social"></a>
 <a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?&style=social"></a>
-<a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Fork" src="https://github.com/forks/berabotsmd/ALPHA-MD?style=social"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Fork" src="https://github.com/fork/berabotsmd/ALPHA-MD?&style=social"></a>
 <a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/ALPHA-MD?label=Watching&style=social"></a>
 </p>
 
