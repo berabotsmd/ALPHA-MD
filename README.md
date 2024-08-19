@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/Author_Of-ALPHA-MD-black"></a>
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
