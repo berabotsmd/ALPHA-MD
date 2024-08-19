@@ -1,9 +1,9 @@
 
 {
-    "name": "MAKINO-MD-V2",
+    "name": "ALPHA-MD",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/anonphoenix007/MAKINO-MD-V2",
-    "logo": "https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg",
+    "repository": "https://github.com/berabotsmd/ALPHA-MD",
+    "logo": "https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
       {
