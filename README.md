@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
@@ -13,13 +13,13 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge-black?style=for-the-badge&logo=twitter"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?label=Followers&style=social"></a>
 <a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?&style=social"></a>
 <a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Fork" src="https://github.com/forks/berabotsmd/ALPHA-MD?style=social"></a>
-<a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/ALPHA-MD?label=Watching&style=social"></a>
 </p>
 
 #### Notice
@@ -31,7 +31,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/berabotsmd/ALPHA-MD/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_MAKINO-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/fork"><img title="ALPHA-MD" src="https://img.shields.io/badge/FORK_ALPHA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan or pair to get session ID
     <br>
@@ -42,9 +42,9 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 1. Fork This Repository 
 2. Update [`config.js`] if you want more functions or skip
 ```js
-global.Owner = ["2347080968564"]; 
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.Owner = ["254743982206"]; 
+global.OwnerName = "BRUCE BERA";
+global.BotName = "♱ALPHA-MD♱♡⃤";
 ```
 3. edit sessionDir/creds.json and put your session ID,it must end with AAAAA or bot will not work.
 #### DEPLOY TO HEROKU 
@@ -54,7 +54,7 @@ global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 2. Now Deploy
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Anonphoenix007/MAKINO-MD-V2' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/berabotsmd/ALPHA-MD' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO CODESPACE
@@ -111,13 +111,13 @@ global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 ---
 # `Guide`📕
 
-- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/anonphoenix007/MAKINO-MD-V2/blob/main/guide.md)
+- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/berabotsmd/ALPHA-MD/blob/main/guide.md)
 ---
 
 ## ```Support Me```
 <a href='https://www.instagram.com/call.me.bera' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
 <a href='https://t.me/Alphatrex' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=Telegram' width="96.35" height="28"/></a></p>
-<a href='https://chat.whatsapp.com/EKdfDFDoi5C3ck88OmbJyk' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://www.youtube.com' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
 </p>
@@ -138,7 +138,7 @@ global.BotName = "♱MAKINO-MD-V2♱♡⃤";
   
 | [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/anonphoenix007.png?size=150)](https://github.com/anonphoenix007) |
 |----|
-| [  Tᴀɪʀᴀ Mᴀᴋɪɴᴏ ](https://github.com/anonphoenix007) |
+| [  BRUCE BERA](https://github.com/berabotsmd) |
 |  Developer |
 
   </div>
