@@ -1,7 +1,7 @@
 
 # Guide 📕
 
-Here you can get the proper written explanation of ***MAKINO-MD-V2*** Setup and Deployments
+Here you can get the proper written explanation of ***ALPHA-MD*** Setup and Deployments
 
 ## Notice
 
@@ -10,7 +10,7 @@ If you re-upload  anything from my ***REPOSITORY*** then please give to owner **
 
 ## Installation ➡ 📖
 
-- Fork [`MAKINO-MD-V2`](https://github.com/anonphoenix007/MAKINO-MD-V2/fork) repository and give a Star to the Repository
+- Fork [`ALPHA-MD`](https://github.com/berabotsmd/ALPHA-MD/fork) repository and give a Star to the Repository
 
 - Edit [`config.js`] file on your own repository
 
@@ -22,17 +22,17 @@ If you re-upload  anything from my ***REPOSITORY*** then please give to owner **
 
 
 ```js
-global.Owner = ["2347080968564"]; 
-global.OwnerNumber = ["2347080968564"];
+global.Owner = ["254743982206"]; 
+global.OwnerNumber = ["254743982206"];
 global.ownertag = ["2347080968564"];
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "MAKINO-MD-V2";
+global.OwnerName = "BRUCE BERA";
+global.BotName = "ALPHA-MD";
 ```
 
 
 ## Qr Setup 📲
 
-- Click the [`Scan Qr`](https://replit.com/) from ***MAKINO-MD-V2*** Repository
+- Click the [`Scan Qr`](https://replit.com/) from ***ALPHA-MD*** Repository
 
 - Scan the Qr with your WhatsApp
 
@@ -46,7 +46,7 @@ global.BotName = "MAKINO-MD-V2";
 ## Heroku Deploy ✅
 
 
-- Click the [`heroku-Deploy`](https://dashboard.heroku.com/new?template=https://github.com/Anonphoenix007/MAKINO-MD-V2) option in ***MAKINO-MD-V2*** repository
+- Click the [`heroku-Deploy`](https://dashboard.heroku.com/new?template=https://github.com/berabotsmd/ALPHA-MD) option in ***ALPHA-MD*** repository
 
 - Deploy the repository first using my repository
 
@@ -54,7 +54,7 @@ global.BotName = "MAKINO-MD-V2";
 
 - Connect the heroku with your Github Account
 
-- Now Connect it with your `MAKINO-MD-V2` Repository
+- Now Connect it with your `ALPHA-MD` Repository
 
 - Click Deploy
 
@@ -89,7 +89,7 @@ global.BotName = "MAKINO-MD-V2";
 
 - Adjust `Ram,Cpu,Temp-Storage` by your own
 
-- Select your github repository to ***MAKINO-MD-V2***
+- Select your github repository to ***ALPHA-MD***
 
 - Then Click Create/Deploy and wait for deploy
 
@@ -134,8 +134,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/anonphoenix007/MAKINO-MD-V2
-cd MAKINO-MD-V2
+git clone https://github.com/berabotsmd/ALPHA-MD
+cd ALPHA-MD
 npm i
 Edit config.js
 npm start
@@ -155,8 +155,8 @@ npm start
 * [`Download Libwebp`](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/anonphoenix007/MAKINO-MD-V2
-> cd MAKINO-MD-V2
+> git clone https://github.com/berabotsmd/ALPHA-MD
+> cd ALPHA-MD
 > npm i
 > npm start
 ```
