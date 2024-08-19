@@ -13,13 +13,13 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/anonphoenix007?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anonphoenix007/MAKINO-MD-V2?&style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/anonphoenix007/MAKINO-MD-V2?style=social"></a>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?label=Followers&style=social"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?&style=social"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Fork" src="https://github.com/forks/berabotsmd/ALPHA-MD?style=social"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
 </p>
 
 #### Notice
@@ -31,7 +31,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/anonphoenix007/MAKINO-MD-V2/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_MAKINO-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/fork"><img title="MAKINO-MD-V2" src="https://img.shields.io/badge/FORK_MAKINO-MD_V2-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan or pair to get session ID
     <br>
@@ -115,17 +115,17 @@ global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 ---
 
 ## ```Support Me```
-<a href='https://www.instagram.com/anonphoenix007' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
-<a href='https://t.me/Tha_Healer' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=Telegram' width="96.35" height="28"/></a></p>
+<a href='https://www.instagram.com/call.me.bera' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
+<a href='https://t.me/Alphatrex' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=Telegram' width="96.35" height="28"/></a></p>
 <a href='https://chat.whatsapp.com/EKdfDFDoi5C3ck88OmbJyk' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://whatsapp.com/channel/0029Vag5l2ALSmbi14YryJ2r' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <a href='https://www.youtube.com' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
 </p>
 
 1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com">
-  <img src="https://telegra.ph/file/9fd9e372ed366eca3adb3.jpg" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+  <img src="https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
 <h2 align="center"> Please don't forget to Star the repo and follow me 🌟
