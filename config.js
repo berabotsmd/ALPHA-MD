@@ -20,20 +20,20 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
+global.Owner = ["25474398206"]; //like 254743982206
+global.OwnerName =  "BRUCE BERA";
+global.BotName = "♱ALPHA-MD♱♡⃤";
+global.packname = "♱ALPHA-MD♱♡⃤";                             //Do not change.
+global.author = "BRUCE BERA";                               //Do not change.
+global.BotSourceCode = "https://github.com/berabotsmd/ALPHA-MD"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
+global.SupportGroupLink = "https://chat.whatsapp.com/D3iyJB5hrhF7ov7JxgW92C"; //Do not change!
 global.menutype = "v3"
 
 global.prefa = ['','!','.',','] 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
+global.BotLogo = fs.readFileSync("./Assets/ALPHA-MD.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic7.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
