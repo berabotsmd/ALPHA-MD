@@ -136,7 +136,7 @@ global.BotName = "♱ALPHA-MD♱♡⃤";
  ## 🎯 Authors 🎯
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/anonphoenix007.png?size=150)](https://github.com/anonphoenix007) |
+| [![BRUCE BERA](https://github.com/berabotsmd.png?size=150)](https://github.com/berabotsmd) |
 |----|
 | [  BRUCE BERA](https://github.com/berabotsmd) |
 |  Developer |
