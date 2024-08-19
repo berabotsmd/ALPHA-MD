@@ -17,13 +17,16 @@
        <h3 align="center">Added Different menu(Core menu,all menu ...)</h3>
   </a>
 </p>
-
-<p align="center">
-<a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?label=Followers&style=social"></a>
-<a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?&style=social"></a>
-<a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Fork" src="https://github.com/fork/berabotsmd/ALPHA-MD?&style=social"></a>
-<a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/ALPHA-MD?label=Watching&style=social"></a>
+<a href="https://github.com/berabotsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?color=red&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/berabotsmd/ALPHA-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/ALPHA-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/berabotsmd/ALPHA-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fberabotsmd%2FALPHA-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/berabotsmd/ALPHA-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
+<p align='center'>
+    </p>
 
 #### Notice
 If you create a clone of my bot then Don't forget to give ***Credit*** 
