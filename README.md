@@ -10,13 +10,7 @@
   <a href="https://t.me/Tha_Healer">
     <img alt="X-2.0" height="300" src="https://i.ibb.co/BNdbNrc/ALPHA-MD.jpg">
     <h1 align="center">ALPHA-MD</h1>
-    <h4 align="center">Major Update available.</h4>
-    <h3 align="center">Bug Menu</h3>
-    <h3 align="center">menutype command, 5 Menu types</h3>
-    <h3 align="center">Added Jid/getjid command</h3>
-       <h3 align="center">Added Different menu(Core menu,all menu ...)</h3>
-  </a>
-</p>
+   
 <a href="https://github.com/berabotsmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?color=red&style=flat-square"></a>
 <a href="https://github.com/berabotsmd/ALPHA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/ALPHA-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/berabotsmd/ALPHA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/berabotsmd/ALPHA-MD?color=red&style=flat-square"></a>
@@ -52,7 +46,7 @@ global.Owner = ["254743982206"];
 global.OwnerName = "BRUCE BERA";
 global.BotName = "♱ALPHA-MD♱♡⃤";
 ```
-3. edit sessionDir/creds.json and put your session ID,it must end with AAAAA or bot will not work.
+
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account.
@@ -162,10 +156,10 @@ global.BotName = "♱ALPHA-MD♱♡⃤";
   
   
    ## `Special Thanks To`
+  [GOD]
 
-* [`📕 Kai..!!`](https://github.com/Kai0071)
-* [`📕 Guru`](https://github.com/Guru322)
-* [`📕 V.e.n.o.x`](https://github.com/V-E-N-O-X )
+* [`📕 MARISEL`](https://github.com/betingrich)
+
 ---------
 
 
@@ -173,7 +167,7 @@ global.BotName = "♱ALPHA-MD♱♡⃤";
 </h1>
 
 </p>
-<h1 align="center"> ✧Base By Kai0071.✧
+<h1 align="center"> ✧Base By BERA_TECH.✧
 </h1>
 
 ---
