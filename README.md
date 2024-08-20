@@ -108,11 +108,6 @@ global.BotName = "♱ALPHA-MD♱♡⃤";
     <br>
 <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
----
-# `Guide`📕
-
-- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/berabotsmd/ALPHA-MD/blob/main/guide.md)
----
 
 ## ```Support Me```
 <a href='https://www.instagram.com/call.me.bera' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
